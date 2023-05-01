@@ -1,0 +1,91 @@
+- title: Advanced ETL Processor
+  pages:
+    - title: Getting Started
+      pages:
+        - title: Introduction
+        - title: Editions
+        - title: Requirements
+        - title: Demo Data
+        - title: Options
+        - title: User Interface
+    - title: Connections
+      pages:
+        - title: Cloud
+        - title: Database
+        - title: Email
+        - title: Message Queues
+        - title: Others
+    - title: Transforming Data
+      pages:
+        - title: Getting Started
+        - title: Screen Overview
+        - title: Reader
+        - title: Reader Sources
+        - title: Transformer
+        - title: Validator
+        - title: Writer
+        - title: Writer Targets
+        - title: Data-Buffer
+        - title: Deduplicator
+        - title: Fields Selector
+        - title: Fields Values
+        - title: Grouper
+        - title: Joiner
+        - title: Log
+        - title: Pivot
+        - title: Sorter
+        - title: Union All
+        - title: UnPivot
+    - title: Validation Rules
+      pages:
+        - title: Strings
+        - title: Numbers
+        - title: Dates
+        - title: Times
+        - title: Miscellaneous
+        - title: Regular Expressions
+    - title: Transformation Functions
+      pages:
+        - title: Strings
+        - title: Numbers
+        - title: Dates
+        - title: Times
+        - title: File Names
+        - title: Lookups
+        - title: XML and HTML
+        - title: JSON
+        - title: Regular Expressions
+        - title: Miscellaneous
+    - title: Packages
+      pages:
+        - title: Getting Started
+        - title: Debugging
+        - title: Variables
+        - title: File Names and Directories
+        - title: Actions
+    - title: Automation
+      pages:
+        - title: Scheduler
+        - title: Event Monitors
+        - title: Execution Agent
+        - title: Execution Log
+        - title: Command Line Interface
+        - title: Management Console
+    - title: Importing Data
+      pages:
+        - title: Getting Started
+        - title: How To
+    - title: Reports
+    - title: Version Control
+    - title: SQL Scripts
+    - title: Lookups
+    - title: Free Hand Sql
+    - title: Email Templates
+    - title: Objects Library
+    - title: Dynamic File names
+    - title: Date Formats
+    - title: Scripting Language
+    - title: Supported Functions List
+    - title: Regular Expressions
+    - title: Repository Database
+    - title: Support

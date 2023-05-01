@@ -1,0 +1,105 @@
+
+{{- $page := .page }}
+{{- $section := .section }}
+{{- if not $section }}{{ errorf "Missing value for param 'section'" }}{{ end -}}
+{{- $home := .home }}
+{{ if ne (printf "%T" $home) "bool" }}
+    {{ errorf "Invalid value for param 'home'"}}
+{{ end }}
+{{- $title := .title -}}
+{{- $moreTitle := .moreTitle -}}
+{{- $sectionURL := .sectionURL -}}
+
+{{ .Scratch.Set "menu" (string .page.Params.menu)  }}
+
+{{- $paginate := true -}}
+{{- $sort := $page.Params.sort -}}
+
+{{- $reverse := false -}}
+{{- $separator := false -}}
+{{- $orientation := "stacked" -}}
+{{- $cols := 1 -}}
+{{- $color := "" -}}
+{{- $padding := "0" -}}
+{{- $header := "none" -}}
+{{- $footer := "none" -}}
+{{- $style := "border-0" -}}
+{{- $homepage := 3 -}}
+{{- $background := "" -}}
+
+{{- with (index site.Params $section) -}}
+    {{- with index . "title" }}{{ $title = . }}{{ end -}}
+    {{- with index . "sort" }}{{ $sort = . }}{{ end -}}
+    {{- if (index . "reverse") }}{{ $reverse = true }}{{ else }}{{ $reverse = false }}{{ end -}}
+    {{- if (index . "separator") }}{{ $separator = true }}{{ else }}{{ $separator = false }}{{ end -}}
+    {{- with index . "orientation" }}{{ $orientation = . }}{{ end -}}
+    {{- with index . "cols" }}{{ $cols = . }}{{ end -}}
+    {{- with index . "color" }}{{ $color = . }}{{ end -}}
+    {{- with index . "padding" }}{{ $padding = . }}{{ end -}}
+    {{- with index . "header" }}{{ $header = . }}{{ end -}}
+    {{- with index . "footer" }}{{ $footer = . }}{{ end -}}
+    {{- with index . "style" }}{{ $style = . }}{{ end -}}
+    {{- with index . "homepage" }}{{ $homepage = . }}{{ end -}}
+    {{- with index . "background" }}{{ $background = . }}{{ end -}}
+{{- end -}}
+
+<!-- {{- $list := where site.RegularPages "Type" "in" $section -}} -->
+
+{{- $group := $page.Params.group -}}
+
+{{- $list := where site.RegularPages "Params.group" $group -}}
+{{- $max := (len $list) -}}
+{{- if $home -}}
+    {{- $paginate = false -}}
+    {{- $max = int (math.Min $homepage $max) -}}
+{{ end -}}
+
+{{- $cols = int (math.Min $cols $max) -}}
+
+{{- if eq $sort "weight" -}}
+    {{- $list = $list.ByWeight -}}
+{{- else if eq $sort "publication" -}}
+    {{- $list = $list.ByPublishDate -}}
+{{- else if eq $sort "expiration" -}}
+    {{- $list = $list.ByExpiryDate -}}
+{{- else if eq $sort "lastmod" -}}
+    {{- $list = $list.ByLastmod -}}
+{{- else if eq $sort "length" -}}
+    {{- $list = $list.ByLength -}}
+{{- else if eq $sort "title" -}}
+    {{- $list = $list.ByTitle -}}
+{{- else if eq $sort "linktitle" -}}
+    {{- $list = $list.ByLinkTitle -}}
+{{- else if ne $sort "date" -}}
+    {{- $list = $list.ByParam $sort -}}        
+{{- end -}}
+{{- if $reverse -}}{{- $list = $list.Reverse -}}{{ end -}}
+
+{{- $sidebar := .Site.Params.navigation.sidebar | default true -}}
+
+{{ if and .page.Params.menu $sidebar -}}
+{{- $menu := index site.Data .page.Params.menu -}}
+
+{{ else }}
+{{ end -}}
+
+<div class="container-fluid flex-fill p-0{{ with $background }} bg-{{ . }}{{ end }}">
+    {{- partial "assets/list-grid.html" (dict 
+        "page" $page
+        "list" $list
+        "max" $max
+        "cols" $cols
+        "title" $title
+        "href" $sectionURL
+        "hrefTitle" $moreTitle
+        "separator" $separator
+        "paginate" $paginate
+        "class" $style
+        "orientation" $orientation
+        "color" $color
+        "padding" $padding
+        "header" $header
+        "footer" $footer
+        ) 
+    -}}
+</div>

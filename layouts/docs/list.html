@@ -1,0 +1,45 @@
+{{- define "main" -}}
+
+
+{{- $menu := .Scratch.Get "sidebar" -}}
+{{- $sidebar := .Site.Params.navigation.sidebar | default true -}}
+
+{{ if and $menu $sidebar -}}
+        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvass-sidebar" aria-labelledby="offcanvas-label">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvas-label">{{ strings.FirstUpper .Section }}</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                   {{ partial "assets/sidebar" (dict "page" . "menu" $menu) }}
+            </div>
+        </div>
+    
+        <div class="container-fluid">
+            <div class="row row-cols-md-2 row-cols-lg-3">
+                <div class="col col-md-3 col-lg-2 d-none mt-5 d-md-block">
+                    {{ partial "assets/sidebar" (dict "page" . "menu" $menu) }}
+                </div>
+                <div class="col col-md-9 col-lg-8 mb-5 p-0">
+                    {{- partial "assets/section-list.html" (dict 
+                    "page" .
+                    "section" .Section
+                    "home" false
+                    "sort" "weight"
+                    "title" .Title
+                    "paginate" true)
+                -}}
+              </div>
+            </div>
+        </div>
+    {{ else }}
+    {{- partial "assets/section-list.html" (dict 
+    "page" .
+    "section" .Section
+    "home" false
+    "sort" "weight"
+    "title" .Title
+    "paginate" true)
+-}}
+{{ end -}}
+{{- end -}}

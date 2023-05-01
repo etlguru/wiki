@@ -1,0 +1,106 @@
+# toml-docs-start main
+[main]
+    separator = "-"
+    description = "Documentation."
+    enableDarkMode = true
+# toml-docs-end main
+
+# toml-docs-start docs
+[docs]
+    version = ""
+    basePath = ""
+# toml-docs-end docs
+
+# toml-docs-start home
+[home]
+    sections = []
+    featurePhoto = "" 
+    fullCover = true
+    style = ""
+# toml-docs-end home
+
+# toml-docs-start navigation
+[navigation]
+    logo = "/img/logo_icon.svg"
+    color = ""
+    fixed = true
+    offset = "4em"
+    search = true
+    breadcrumb = true
+    toc = true
+    sidebar = true
+# toml-docs-end navigation
+
+# toml-docs-start list
+[list]
+# toml-docs-end list
+
+[favicon]
+    logo = "img/favicon.png"
+    sizes = [16, 32, 48]
+
+# toml-docs-start theme-colors
+[style]
+    primary = "#04519b"
+    secondary = "#6c757d"
+    success = "#198754"
+    info = "#0dcaf0"
+    warning = "#ffc107"
+    danger = "#dc3545"
+    light = "#f8f9fa"
+    dark = "#212529"
+# toml-docs-end theme-colors
+    themeOpacity = "10"
+# toml-docs-start font
+    themeFont = "Roboto"
+    # themeFontPath = "https://fonts.bunny.net/css?family=Roboto:wght@300;400;600&display=swap" # external path
+    themeFontPath = "/fonts" # local path
+# toml-docs-end font
+# toml-docs-start build
+    purge = true
+# toml-docs-end build
+
+[schema]
+    type = "Organization"
+    name = "ETL-Tools.com"
+    locale = "en-US"
+    # twitter = "https://twitter.com/gethinode"
+    # linkedIn = ""
+    # github = "https://github.com/gethinode/hinode"
+    section = "blog"
+    [author]
+        name = "Mike Rewnick"
+        # twitter = "https://twitter.com/markdumay"
+        # linkedin = "https://www.linkedin.com/in/markdumay/"
+        # github = "https://github.com/markdumay"
+    [logo]
+        url = "img/logo512x512.png"
+        width = 512
+        height = 512
+    [image]
+        url = "img/logo1280x640.png"
+        width = 1280
+        height = 640
+
+[opengraph]
+    images = ["logo.png"]
+    locale = "en_US"
+
+[comments]
+    enabled = false
+    repo = "" # Replace with your repository.
+    #issueTerm = "pathname" # pathname, url, title, og:title
+    #label = "comment"
+    # By default, light and dark mode correspond to github-light and github-dark, respectively.
+    # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
+    #theme = "" 
+
+[links]
+    bs_badge_heading = "https://getbootstrap.com/docs/5.2/components/badge/#headings"
+    hinode_docs = "https://gethinode.com/docs"
+    hugo_imaging = "https://gohugo.io/content-management/image-processing/#imaging-configuration"
+    mozilla_image = "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images"
+    observatory = "https://observatory.mozilla.org/analyze/demo.gethinode.com"
+    pagespeed = "https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethinode.com%2F"
+    utterances = "https://utteranc.es"
+ 

@@ -1,0 +1,20 @@
+{{ $filename := .filename | default "js/main.bundle.js" -}}
+{{ $match := .match | default "{js/*.js,js/vendor/**.js}" }}
+{{ $page := .page }}
+
+{{ $files := slice -}}
+{{ range $index, $file := resources.Match $match -}}
+    {{ $files = $files | append $file -}}
+{{ end -}}
+
+{{ if gt (len $files) 0 }}
+    {{ $bundle := $files | resources.Concat $filename -}}
+    {{ $js := $bundle | resources.ExecuteAsTemplate $filename $page -}}
+
+ 
+    {{- if hugo.IsProduction -}}
+        <script src="{{ $js.RelPermalink }}"></script>
+    {{ else -}}
+        <script src="{{ $js.RelPermalink }}"></script>
+    {{ end -}}
+{{ end -}}

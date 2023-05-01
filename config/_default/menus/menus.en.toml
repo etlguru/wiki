@@ -1,0 +1,100 @@
+[[main]]
+  name = "Documentation"
+  url = "/docs/"
+  weight = 30
+
+[[main]]
+  name = "Advanced ETL Processor"
+  url = "/docs/advanced-etl-processor/getting-started/introduction/"
+  parent = "Documentation"
+  weight = 1
+
+[[main]]
+  name = "Visual Importer ETL"
+  url = "/docs/visual-importer-etl/introduction/"
+  parent = "Documentation"
+  weight = 2
+
+[[main]]
+  name = "Active Table Editor"
+  url = "/docs/active-table-editor/introduction/"
+  parent = "Documentation"
+  weight = 3
+
+[[main]]
+  name = "Licensing Server"
+  url = "/docs/licensing-server/introduction/"
+  parent = "Documentation"
+  weight = 4
+
+[[main]]
+  name = "Deep Bin"
+  url = "/docs/deep-bin/introduction/"
+  parent = "Documentation"
+  weight = 13
+
+[[main]]
+  name = "Event Loggers"
+  url = "/docs/event-loggers/"
+    parent = "Documentation"
+  weight = 30
+
+[[main]]
+  name = "Knowledgebase"
+  url = "/knowledgebase/start/"
+  weight = 31
+
+[[main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 40
+
+[[social]]
+  name = "Back to Main Site"
+  pre = ""
+  url = "https://www.etl-tools.com/"
+  weight = 1
+
+[[social]]
+  name = "About"
+  pre = ""
+  url = "https://www.etl-tools.com/about.html"
+  weight = 10
+
+[[social]]
+  name = "Support"
+  pre = ""
+  url = "https://www.etl-tools.com/support-procedure.html"
+  weight = 17
+
+[[social]]
+  name = "Pricing"
+  pre = ""
+  url = "https://www.etl-tools.com/products/buy.html"
+  weight = 18
+
+[[social]]
+  name = "Cookies Policy"
+  pre = ""
+  url = "https://www.etl-tools.com/legal/cookies-policy.html"
+  weight = 19
+
+[[social]]
+  name = "Term Of Use"
+  pre = ""
+  url = "https://www.etl-tools.com/terms-of-use.html"
+  weight = 20
+
+[[social]]
+  name = "Privacy Policy"
+  pre = ""
+  url = "https://www.etl-tools.com/privacy-policy.html"
+  weight = 21
+
+[[social]]
+  name = "License"
+  pre = ""
+  url = "https://www.etl-tools.com/licence.html"
+  weight = 30
+
+  

@@ -1,0 +1,15 @@
+- title: RabbitMQ Logger
+  pages:
+    - title: Introduction
+    - title: Installation
+    - title: Servers
+    - title: Topics
+    - title: Event Log
+    - title: Users
+    - title: Groups
+    - title: Settings
+    - title: Security
+    - title: Folders
+    - title: Troubleshooting
+    - title: Registration
+    - title: Repository

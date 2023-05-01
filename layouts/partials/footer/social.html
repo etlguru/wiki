@@ -1,0 +1,7 @@
+<div class="container-fluid bg-primary p-3 bg-opacity-10 text-center">
+     {{ range .Site.Menus.social -}}
+            <a href="{{ .URL | relURL }}" aria-label="{{ .Name | safeHTML }}" class="d-inline p-2">
+                 {{ .Name | safeHTML }}
+            </a>
+         {{ end -}}
+</div>
