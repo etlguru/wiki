@@ -82,7 +82,7 @@ insert into orders (customerid,OrderNo,orderdate,amount)
 select customerid,OrderNo,orderdate,amount
 FROM orders_tmp e
 where not exists (
-select \*
+select *
 from orders
 orders.customerid = e.customerid And
 orders.OrderNo = e.OrderNo)

@@ -4,7 +4,7 @@ title: Settings
 description: HL7 Logger Settings
 draft: false
 tags: ['HL7 Event Logger', 'Settings']
-date: 2022-04-17
+date: 2023-05-08
 menu: hl7-logger
 group: hl7-logger
 layout: docs
@@ -12,9 +12,9 @@ layout: docs
 
 {{< image class="mx-auto d-block"  src="/images/licensing-server/settings.png" title="Settings" >}}
 
-### List of options
+## List of options
 
-## Enable Security
+### Enable Security
 
 When security is disabled every one has unlimited access to HL7 Logger, We do not recommend running HL7 Logger with disabled security
 

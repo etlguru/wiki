@@ -4,7 +4,7 @@ title: Settings
 description: RabbitMQ Logger Settings
 draft: false
 tags: ['RabbitMQ Logger', 'Event Loggers']
-date: 2022-05-19
+date: 2023-05-08
 menu: rabbitmq-logger
 group: rabbitmq-logger
 layout: docs
@@ -14,7 +14,7 @@ layout: docs
 
 ## List of options
 
-## Enable Security
+### Enable Security
 
 When security is disabled every one has unlimited access to RabbitMQ Logger, We do not recommend running RabbitMQ Logger with disabled security
 

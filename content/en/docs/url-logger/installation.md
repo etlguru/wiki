@@ -49,6 +49,6 @@ The default user name is: welcome@etl-tools.com and the password is Welcome
 \
 If it does not work try changing the port
 
-[Settings]({{<ref "settings" >}})
+[Settings]({{<relref "/docs/url-logger/settings" >}})
 
 {{< url-logger >}}

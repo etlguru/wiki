@@ -82,7 +82,7 @@
     locale = "en_US"
 
 [comments]
-    enabled = true
+    enabled = false
     repo = "https://github.com/etlguru/wiki" # Replace with your repository.
     #issueTerm = "pathname" # pathname, url, title, og:title
     label = "Comment"

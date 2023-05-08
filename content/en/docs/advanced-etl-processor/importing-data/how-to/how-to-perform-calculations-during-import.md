@@ -20,7 +20,7 @@ To perform a simple calculation set mapping type to calculation and type constan
 ## Multiplying fields
 
 ```
-StrToFloat([INTEGER_F])\* StrToFloat([FLOAT_F])
+StrToFloat([INTEGER_F]) * StrToFloat([FLOAT_F])
 ```
 
 {{< alert color="secondary">}}[INTEGER_F] and [FLOAT_F] are source fields names{{< /alert >}}

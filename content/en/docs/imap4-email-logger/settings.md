@@ -4,7 +4,7 @@ title: Settings
 description: IMAP4 EMail Logger Settings
 draft: false
 tags: ['IMAP4 EMail Logger', 'Settings']
-date: 2022-04-10
+date: 2023-05-08
 menu: imap4-email-logger
 group: imap4-email-logger
 layout: docs
@@ -12,9 +12,9 @@ layout: docs
 
 {{< image class="mx-auto d-block"  src="/images/licensing-server/settings.png" title="Settings" >}}
 
-### List of options
+## List of options
 
-## Enable Security
+### Enable Security
 
 When security is disabled every one has unlimited access to IMAP4 Logger, We do not recommend running IMAP4 Logger with disabled security
 

@@ -4,7 +4,7 @@ title: Settings
 description: URL Logger Settings
 draft: false
 tags: ['URL Logger', 'Event Loggers']
-date: 2022-04-05
+date: 2023-05-08
 menu: url-logger
 group: url-logger
 layout: docs
@@ -14,7 +14,7 @@ layout: docs
 
 ## List of options
 
-## Enable Security
+### Enable Security
 
 When security is disabled every one has unlimited access to URL logger, We do not recommend running URL logger with disabled security
 
