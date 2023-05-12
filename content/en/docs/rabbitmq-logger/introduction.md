@@ -1,7 +1,7 @@
 ---
 author: Mike Rewnick
 title: Introduction
-description: RabbitMQ Logger Installation
+description: RabbitMQ Logger Introduction
 draft: false
 tags: ['RabbitMQ Logger', 'Event Loggers']
 date: 2022-05-19

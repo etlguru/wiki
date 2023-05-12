@@ -1,7 +1,7 @@
 ---
 author: Peter Jonson
 title: Demo Data
-description: Demo Data
+description: Advanced ETL Processor Demo Data
 draft: false
 tags: ['Demo Data', 'Introduction']
 date: 2022-08-01

@@ -1,7 +1,7 @@
 ---
 author: Peter Jonson
 title: Requirements
-description: Requirements for ETL Software
+description: Requirements for Advanced ETL Processor
 draft: false
 tags: ['Requirements']
 date: 2022-12-22
@@ -36,11 +36,11 @@ Below is a List of Software that must be installed before installation of (ETL S
 
 ### FoxPro ODBC driver
 
-https://www.etl-tools.com/dmdocuments/vfpodbc.msi
+https://github.com/VFPX/VFP9SP2Hotfix3/blob/master/ODBC_Release_Notes.md
 
 ### FoxPro OleDB provider
 
-https://www.microsoft.com/en-us/download/details.aspx?id=14839
+https://github.com/VFPX/VFP9SP2Hotfix3/blob/master/OLEDB_Release_Notes.md
 
 ### Office 2010 Data Access Components
 

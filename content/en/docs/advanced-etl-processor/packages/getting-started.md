@@ -1,7 +1,7 @@
 ---
 author: Peter Jonson
 title: Package
-description: Package combines various actions together
+description: Package combines various Advanced ETL Processor actions together
 draft: false
 tags: ['Package']
 date: 2022-09-17

@@ -1,7 +1,7 @@
 ---
 author: Peter Jonson
 title: Options
-description: Options
+description: Advanced ETL Processor Options
 draft: false
 tags: ['Options']
 date: 2023-01-15

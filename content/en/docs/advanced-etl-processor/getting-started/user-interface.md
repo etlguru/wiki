@@ -1,7 +1,7 @@
 ---
 author: Peter Jonson
 title: User Interface
-description: Advanced ETL Processor Professional and Enterprise Introduction
+description: Advanced ETL Processor User Interface
 draft: false
 tags: ['Transforming Data', 'Introduction']
 date: 2022-08-01

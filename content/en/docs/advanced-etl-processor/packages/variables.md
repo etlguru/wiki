@@ -1,7 +1,7 @@
 ---
 author: Peter Jonson
 title: Using Variables
-description: Using Variables
+description: Using Advanced ETL Processor Variables
 draft: false
 tags: ['Package', 'Variables']
 date: 2022-09-26

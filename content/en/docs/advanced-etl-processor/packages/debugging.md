@@ -1,7 +1,7 @@
 ---
 author: Peter Jonson
 title: Debugging Package
-description: Trouble Shooting and Debugging Package
+description: Trouble Shooting and Debugging Advanced ETL Processor Packages
 draft: false
 tags: ['Package', 'Debugging']
 date: 2022-09-17
