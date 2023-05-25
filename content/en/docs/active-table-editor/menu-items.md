@@ -16,6 +16,10 @@ Menu Items are the construction blocks used to design user menus. In other words
 \
 {{< image class="mx-auto d-block"  src="/images/active-table-editor/item-properties.png" title="Item Properties" >}}
 \
+{{< alert color="danger" >}}
+**Note:** Please always remove comments from SQL  
+{{< /alert >}}
+
 {{< image class="mx-auto d-block"  src="/images/active-table-editor/sql-query-builder.png" title="SQL Query Builder" >}}
 \
 {{< image class="mx-auto d-block"  src="/images/active-table-editor/item-properties-primary-key.png" title="Primary Key" >}}

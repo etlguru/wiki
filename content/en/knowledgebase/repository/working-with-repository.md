@@ -16,7 +16,7 @@ The repository database stores all the information about connections, transforma
 
 ## Default Repository
 
-The default repository is MS Access. This type of repository works fine for development and for a small production environment. From time to time we recommend performing “compact and repair” using MS Access. For heavy production environments for example, when we want to run packages every minute in parallel we recommend using something else like MS SQL Server or Oracle.
+The default repository is MS Access. This type of repository works fine for development and for a small production environment. From time to time we recommend performing “compact and repair” using MS Access. For heavy production environments for example, when we want to run packages every minute in parallel we recommend using something else like MS SQL Server Express. It is free and very easy to configure
 
 ## Provider Not Found Error Message
 
@@ -88,14 +88,14 @@ If you want to create a new connection to the existing repository:
 - Select the file to restore data from
 - Done
 
-## To copy repository data from development to production environment
+## Copying repository data from development to production environment
 
 - Connect to the development environment
 - Backup repository
 - Connect to the production environment
 - Restore repository
 
-## To copy single project from development to production environment
+## Copying single project from development to production environment
 
 - Connect to the development environment
 - Backup repository

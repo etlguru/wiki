@@ -18,6 +18,10 @@ To access [Options Dialogue]({{<relref "docs/advanced-etl-processor/getting-star
 {{< /alert >}}
 
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/options/variables-log.png" title="Variables Log" >}}
+\
+{{< alert color="warning">}}
+**Note:** This option does not apply to executing packages using agent or command line
+{{< /alert >}}
 
 **Video Tutorial**
 

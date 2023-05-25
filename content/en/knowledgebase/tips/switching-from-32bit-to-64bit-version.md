@@ -3,7 +3,7 @@ author: Maria Salter
 title: Switching from 32bit to 64bit version
 description: This article describes how to switch from 32 bit to 64 bit version of ETL Software
 draft: false
-tags: ['Knowledgebase', '32bit', '64bit']
+tags: ['Knowledgebase']
 date: 2022-09-17
 group: knowledgebase-tips
 layout: docs

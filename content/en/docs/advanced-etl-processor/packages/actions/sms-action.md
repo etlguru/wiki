@@ -3,16 +3,18 @@ author: Peter Jonson
 title: SMS Action
 description: Send SMS SMS Message Package Action
 draft: false
-tags: ['Package', 'Action', 'SMS', 'Message', 'Twilio', 'BulkSMS', 'TelAPI', 'Essendex']
+tags: ['Package', 'Action', 'SMS', 'Message', 'Twilio', 'BulkSMS', 'TelAPI', 'Esendex']
 date: 2023-03-18
 group: advanced-etl-processor-enterprise-package-actions
 menu: advanced-etl-processor-enterprise
 layout: docs
 ---
 
+, 'Esendex'
+
 **SMS** package action provides a an easy way of sending SMS Messages
 
-Following services are supported Twilio, BulkSMS, TelAPI and Essendex.
+Following services are supported Twilio, BulkSMS, TelAPI and Esendex.
 
 ## Workflow tab
 

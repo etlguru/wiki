@@ -3,7 +3,7 @@ author: Maria Salter
 title: Switching from Production to Development environment
 description: This article describes how to use Global Variables to switch from Production to Development environment
 draft: false
-tags: ['Knowledgebase', 'Global Variables', 'Variables']
+tags: ['Knowledgebase', 'Variables']
 date: 2023-03-14
 group: knowledgebase-tips
 layout: docs

@@ -10,6 +10,8 @@ layout: docs
 weight: 3
 ---
 
+The repository database stores all the information about connections, transformations, packages, SQL scripts, reports and execution logging. This is where the results of ETL designer hard work is stored and obviously, no one wants to lose it.
+
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/repository-database/mysql.png" title="Database" >}}
 \
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/repository-database/metadata.png" title="Metadata" >}}
@@ -33,5 +35,9 @@ For example, to set the size for the server to 16MB, add the following lines in 
 [mysqld] max_allowed_packet=16M
 
 - [Repository Tables]({{<ref "repository-tables" >}})
+
+{{< alert color="warning" >}}
+Although it is possible to use MySQL or MariaDB as repository we always recommend using MS SQL Server express. It is free and the easiest option  
+{{< /alert >}}
 
 {{< aetl >}}

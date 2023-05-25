@@ -10,7 +10,7 @@ menu: advanced-etl-processor-enterprise
 layout: docs
 ---
 
-Out ETL software is capable of sending SMS messages. Following services are supported Twilio, BulkSMS, TelAPI and Essendex.
+Out ETL software is capable of sending SMS messages. Following services are supported Twilio, BulkSMS, TelAPI and Esendex.
 
 ## Twilio
 

@@ -10,6 +10,8 @@ layout: docs
 weight: 3
 ---
 
+The repository database stores all the information about connections, transformations, packages, SQL scripts, reports and execution logging. This is where the results of ETL designer hard work is stored and obviously, no one wants to lose it.
+
 ## About
 
 This article provides information about configuring MS SQL Server Repository connection
@@ -52,7 +54,7 @@ To avoid issues with date fields always use English as the default language for 
 {{< alert color="secondary" >}}Using SQL Server username and password is always better than using windows authentication.{{< /alert >}}
 
 Consider the following scenario.
-Administrator Jonh installs the software everything is working fine.
+Administrator John installs the software everything is working fine.
 Developer Peter logs in, nothing is working, because the developer has no access to the repository database.
 Peter gets proper access and he can do his job.
 Over the weekend another administrator want to check execution status he logs in, the same problem happens again.

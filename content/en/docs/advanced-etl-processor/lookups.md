@@ -16,6 +16,10 @@ Lookups provides a convenient way to edit data manually in any database. Lookups
 \
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/lookup-properties-sql.png" title="Lookup SQL" >}}
 \
+{{< alert color="danger" >}}
+**Note:** Please always remove comments from SQL  
+{{< /alert >}}
+
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/lookup-data.png" title="Lookup Parameters" >}}
 
 ## Toolbar

@@ -3,7 +3,7 @@ author: Maria Salter
 title: Processing files based on modification date
 description: This article demonstrates processing files based on modification date
 draft: false
-tags: ['Knowledgebase', 'Transformation', 'Processing Files']
+tags: ['Knowledgebase', 'Transformation']
 date: 2023-03-14
 group: knowledgebase-tips
 layout: docs

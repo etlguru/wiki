@@ -58,8 +58,9 @@ layout: docs
 1. Browse data
 
 {{< alert color="secondary">}}
-Always Use set sql nocount on for Microsoft SQL Server Stored Procedures and Scripts
+Use set sql nocount on for Microsoft SQL Server Stored Procedures and Scripts
 SQL Script supports both package and global variables
+Always remove comments from SQL  
 {{< /alert >}}
 
 ## Version Control

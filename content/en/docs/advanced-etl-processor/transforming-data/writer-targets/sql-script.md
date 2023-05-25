@@ -41,6 +41,7 @@ SQL Scripts can be run before and after the transformation.
 
 {{< alert color="secondary">}}
 Always Use set sql nocount on for Microsoft SQL Server Stored Procedures and Scripts
+Also remove comments from SQL
 {{< /alert >}}
 
 {{< aetl >}}

@@ -1,6 +1,6 @@
 # ETL-Tools.com WIKI
 
-This project is based on Hugo Theme Hinode which have been heavily customized
+This project is based on Hugo Theme Hinode which has been heavily customized
 
 Detailed information about Hinode is available on the official website https://gethinode.com/.
 
