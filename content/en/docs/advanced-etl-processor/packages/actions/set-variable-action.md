@@ -1,6 +1,6 @@
 ---
 author: Peter Jonson
-title: Set Variable package action
+title: Set Variable Package Action
 description: Set Variable package action is a convenient way of changing package object properties dynamically
 draft: false
 tags: ['Package', 'Action', 'Variable']

@@ -42,6 +42,6 @@ layout: docs
 
 More Information can be found here
 
-(Bulk API Limitations)[https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/asynch_api_concepts_limits.htm]
+[Bulk API Limitations](https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/asynch_api_concepts_limits.htm)
 
 {{< aetl >}}

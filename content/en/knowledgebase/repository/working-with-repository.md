@@ -135,7 +135,7 @@ While executing scheduled tasks the size of the repository is constantly growing
 
 {{< image class="mx-auto d-block"  src="/images/knowledgebase/clear-log-2.png" title="Clear Log" >}}
 
-{{< alert color="secondary">}}Information above is relevant to both (Advanced ETL Processor)[https://www.etl-tools.com/advanced-etl-processor/overview.html] and (Visual Importer ETL)[https://www.etl-tools.com/visual-importer-etl-enterprise/overview.html and some of of it to [Active Table Editor](https://www.etl-tools.com/active-table-editor/overview.html) {{< /alert >}}
+{{< alert color="secondary">}}Information above is relevant to both [Advanced ETL Processor](https://www.etl-tools.com/advanced-etl-processor/overview.html) and [Visual Importer ETL](https://www.etl-tools.com/visual-importer-etl-enterprise/overview.html) and some of of it to [Active Table Editor](https://www.etl-tools.com/active-table-editor/overview.html) {{< /alert >}}
 
 ## Unable to connect to the Repository error
 

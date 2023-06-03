@@ -4,7 +4,7 @@ title: Active Directory Reader
 description: Active Directory Reader
 draft: false
 tags: ['Reader', 'Active Directory']
-date: 2022-11-14
+date: 2023-30-05
 group: advanced-etl-processor-enterprise-reader
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -98,6 +98,6 @@ We do recommend using a filter during design to reduce the pressure on the serve
 - Group
 - User
 
-(More Information about Active Directory Fields)[http://edocs.mitel.com/UG/Apps-Solutions/MiCollab%207.1/MiCollab%20Client/Admin_WebHelp7.1/uca/common_ad_ldap_field_mappings.htm]
+[More Information about Active Directory Fields](http://edocs.mitel.com/UG/Apps-Solutions/MiCollab%207.1/MiCollab%20Client/Admin_WebHelp7.1/uca/common_ad_ldap_field_mappings.htm)
 
 If you are having any problems please contact support and we will do our best to help you

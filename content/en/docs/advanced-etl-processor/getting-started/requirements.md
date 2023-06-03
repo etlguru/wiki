@@ -15,7 +15,7 @@ Our ETL software works on Windows only.
 
 ## Software Requirements
 
-Below is a List of Software that must be installed before installation of (ETL Software)[https://www.etl-tools.com]:
+Below is a List of Software that must be installed before installation of [ETL Software](https://www.etl-tools.com):
 
 {{< table "table-striped table-bordered" >}}
 

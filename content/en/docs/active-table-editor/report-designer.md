@@ -10,7 +10,7 @@ group: active-table-editor
 layout: docs
 ---
 
-One of the major benefits of working with (Active Table Editor)[https://www.etl-tools.com/active-table-editor/overview.html] it's ability to create rich report.
+One of the major benefits of working with [Active Table Editor](https://www.etl-tools.com/active-table-editor/overview.html) it's ability to create rich report.
 
 ## Report Designer
 

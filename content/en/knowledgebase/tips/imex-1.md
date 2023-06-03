@@ -15,7 +15,7 @@ layout: docs
 
 ## The logic behind Excel mixed data types
 
-As partially explained (here)[https://docs.microsoft.com/en-us/office/client-developer/access/desktop-database-reference/initializing-the-microsoft-excel-driver?tabs=office-2016]
+As partially explained [here](https://docs.microsoft.com/en-us/office/client-developer/access/desktop-database-reference/initializing-the-microsoft-excel-driver?tabs=office-2016)
 
 ODBC/MS Jet scans first TypeGuessRows to determine field type
 
@@ -64,7 +64,7 @@ We have spent an enormous amount of time trying to get it fixed. So far we were 
 
 The way Excel import works make it not possible to automate it. You have to modify most excel files manually in order to load them.
 
-This is why we are no longer using ODBC/OleDB/Ms Jet for Excel connections. Our (ETL solutions)[https://www.etl-tools.com/products/etl-tools-overview.html] work correctly with Excel all the time
+This is why we are no longer using ODBC/OleDB/Ms Jet for Excel connections. Our [ETL solutions](https://www.etl-tools.com/products/etl-tools-overview.html) work correctly with Excel all the time
 
 - Works correctly with all Excel versions
 - No ODBC, OleDB or MS Jet Required

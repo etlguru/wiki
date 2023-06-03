@@ -4,7 +4,7 @@ title: Understanding Scheduler
 description: This article describes working with Scheduler
 draft: false
 tags: ['Knowledgebase', 'Scheduler', 'Agent']
-date: 2022-08-01
+date: 2023-06-02
 group: knowledgebase-tips
 layout: docs
 ---

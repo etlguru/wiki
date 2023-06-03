@@ -78,7 +78,7 @@
         height = 640
 
 [opengraph]
-    images = ["logo.png"]
+    images = ["img/logo1200x250.png"]
     locale = "en_US"
 
 [comments]

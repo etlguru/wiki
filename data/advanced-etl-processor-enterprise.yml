@@ -25,6 +25,7 @@
         - title: Validator
         - title: Writer
         - title: Writer Targets
+        - title: Clone-Row
         - title: Data-Buffer
         - title: Deduplicator
         - title: Fields Selector

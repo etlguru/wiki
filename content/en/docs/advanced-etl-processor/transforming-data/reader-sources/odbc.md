@@ -36,7 +36,7 @@ For example for MS SQL Server connection string is:
 Driver={SQL Native Client};Server=myServerAddress;Database=myDataBase;Uid=myUsername;Pwd=myPassword;
 ```
 
-One of the major benefits of using connection strings that it makes it no longer necessary to create ODBC Dsn’s manually on every single computer where (Advanced ETL Processor)[https://www.etl-tools.com/advanced-etl-processor/overview.html] is installed. It also gives a greater control over the connection parameters.
+One of the major benefits of using connection strings that it makes it no longer necessary to create ODBC Dsn’s manually on every single computer where [Advanced ETL Processor](https://www.etl-tools.com/advanced-etl-processor/overview.html) is installed. It also gives a greater control over the connection parameters.
 
 Leave user name and password blank and provide it within connection string
 

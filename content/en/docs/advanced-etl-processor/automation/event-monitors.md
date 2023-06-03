@@ -4,7 +4,7 @@ title: Event Monitors
 description: Event monitor waits for a certain event to happen (for example new file arrival into the directory) and when it does happens it executes a predefined task
 draft: false
 tags: ['Automation', 'Event Monitor']
-date: 2022-09-24
+date: 2023-06-02
 group: advanced-etl-processor-enterprise-execution-automation
 menu: advanced-etl-processor-enterprise
 layout: docs

@@ -4,13 +4,13 @@ title: RabbitMQ Reader
 description: RabbitMQ Reader
 draft: false
 tags: ['Reader', 'RabbitMQ']
-date: 2022-02-15
+date: 2023-05-30
 group: advanced-etl-processor-enterprise-reader
 menu: advanced-etl-processor-enterprise
 layout: docs
 ---
 
-[Advanced ETL Processor](https://www.etl-tools.com/advanced-etl-processor/overview.html)is capable of receiving messages from RabbitMQ
+[Advanced ETL Processor](https://www.etl-tools.com/advanced-etl-processor/overview.html) is capable of receiving messages from RabbitMQ
 
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/transforming-data/reader/rabbitmq_etl_reader_1.png" title="RabbitMQ Reader" >}}
 \

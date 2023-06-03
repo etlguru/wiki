@@ -1,14 +1,16 @@
 ---
 author: Peter Jonson
 title: Working with Transformer
-description: Working with Transformer
+description: Data transformer is used to change the format, structure, or values of data
 draft: false
 tags: ['Transformation', 'Transformer']
-date: 2022-08-01
+date: 2023-05-30
 group: advanced-etl-processor-transformation
 menu: advanced-etl-processor-enterprise
 layout: docs
 ---
+
+Data transformer is used to change the format, structure or values of data.
 
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/transforming-data/transformer.png" title="Transformer" >}}
 \

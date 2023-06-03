@@ -4,13 +4,13 @@ title: Working with Validator
 description: Data Validator guarantees to your application database that every data value is correct and accurate.
 draft: false
 tags: ['Transformation', 'Validator']
-date: 2022-08-01
+date: 2023-05-30
 group: advanced-etl-processor-transformation
 menu: advanced-etl-processor-enterprise
 layout: docs
 ---
 
-[Advanced ETL Processor](https://www.etl-tools.com/advanced-etl-processor/overview.html) Data Validator guarantees to your application database that every data value is correct and accurate.
+[Advanced ETL Processor](https://www.etl-tools.com/advanced-etl-processor/overview.html) Data Validator guarantees to your application database that every data value is correct and accurate. It checks the data against a set of user-defined rules and constraints and identifies any errors or inconsistencies that may be present. This helps organizations avoid problems such as incorrect data being loaded into their systems, or data being lost or corrupted during the ETL process
 
 ## Validation Types
 
