@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
    height="1052.3622047"
    id="svg3160"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="Logo.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo_design.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs3162">
     <linearGradient
@@ -35,7 +35,11 @@
     </linearGradient>
     <filter
        inkscape:collect="always"
-       id="filter3983">
+       id="filter3983"
+       x="-0.017969325"
+       y="-0.034607587"
+       width="1.0359386"
+       height="1.0692152">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.25495129"
@@ -375,7 +379,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter3983-2">
+       id="filter3983-2"
+       x="-0.017969325"
+       y="-0.034607587"
+       width="1.0359386"
+       height="1.0692152">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.25495129"
@@ -390,16 +398,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3384766"
-     inkscape:cx="408.19174"
-     inkscape:cy="559.6047"
+     inkscape:cx="429.96643"
+     inkscape:cy="558.09717"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="3840"
+     inkscape:window-height="2479"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata3165">
     <rdf:RDF>
@@ -421,9 +430,9 @@
        d="m 116.20583,411.47579 0,17.28289 0.21066,0 c 0.20934,2.93777 5.6288,5.2929 12.28618,5.2929 6.6574,0 12.07686,-2.35513 12.28619,-5.2929 l 0.21516,0 0,-17.28289 -24.99819,0 z"
        id="path3168-2-8"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415" />
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145" />
     <path
        style="fill:url(#linearGradient4079);fill-opacity:1;stroke:none"
        d="m 101.5369,362.87326 -15.716745,-4.04704 -0.04931,0.21897 c -2.720548,-0.47034 -6.131296,4.6109 -7.690229,11.53029 -1.558905,6.91937 -0.686233,13.10359 1.936294,14.00907 l -0.05032,0.22362 15.716725,4.04704 5.853665,-25.98195 z"
@@ -431,15 +440,15 @@
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="-0.85045705"
        inkscape:transform-center-y="1.1135381"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415" />
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145" />
     <g
        id="g4160"
        transform="matrix(0.07350351,0,0,0.09357517,223.58335,394.96208)"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415">
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145">
       <rect
          y="-447.63782"
          x="-1825.087"
@@ -459,9 +468,9 @@
     <g
        id="g4168"
        transform="matrix(0.11640453,0,0,0.12444534,104.01001,314.91339)"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415">
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145">
       <path
          inkscape:connector-curvature="0"
          id="path3168-2-4"
@@ -480,9 +489,9 @@
        style="fill:#d40f00;fill-opacity:1;stroke:#000000;stroke-width:4.11569023;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3983)"
        id="path3965"
        transform="matrix(0.51923137,0,0,0.41813407,30.792706,201.36615)"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415"
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145"
        cx="188.57143"
        cy="362.36218"
        rx="74.285713"
@@ -490,9 +499,9 @@
     <g
        id="g4174"
        transform="matrix(0.11640453,0,0,0.12444534,126.12687,383.18055)"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415">
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145">
       <path
          inkscape:connector-curvature="0"
          id="path3168-2"
@@ -512,36 +521,35 @@
        d="m 91.129256,402.77413 15.881244,-3.23057 -0.0393,-0.22126 c 2.66036,-0.76897 3.81147,-6.90091 2.56705,-13.89272 -1.24441,-6.99179 -4.42155,-12.24327 -7.16021,-11.91398 l -0.0402,-0.22598 -15.881242,3.23058 4.672743,26.25393 z"
        id="path3168-2-5"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415" />
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145" />
     <ellipse
        style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:1.22315812;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4024-6"
        transform="matrix(-0.17522865,-0.98452776,0.9799308,-0.19933796,0,0)"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145"
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
        cx="-399.78644"
        cy="18.271294"
        rx="13.045535"
        ry="5.2581768" />
     <text
        xml:space="preserve"
-       style="font-size:78.45703888px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#483737;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#483737;fill-opacity:1;stroke:none"
        x="176.07243"
        y="415.04239"
        id="text3043"
-       sodipodi:linespacing="125%"
        transform="scale(1.0399302,0.96160296)"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415"><tspan
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145"><tspan
          sodipodi:role="line"
          id="tspan3045"
          x="176.07243"
          y="415.04239"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#483737;font-family:Arial Narrow;-inkscape-font-specification:Arial Narrow">ETL-tools.com</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.457px;line-height:1.25;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow';fill:#483737">ETL-tools.com</tspan></text>
     <path
        sodipodi:type="star"
        style="fill:#ffcc00"
@@ -560,47 +568,56 @@
        inkscape:transform-center-x="-0.028064271"
        inkscape:transform-center-y="-1.0518454"
        transform="matrix(1.2944048,0,0,1.2999213,92.074533,-192.36888)"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415" />
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145" />
     <g
-       id="g3141"
-       transform="matrix(1.7905249,0,0,1.5433139,220.29365,400.73772)"
-       style="fill:#241c1c"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415">
+       id="g20118"
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145">
       <text
          id="text3143"
-         style="font-size:13.79950905px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#241c1c;font-family:Calibri"
-         y="13.057754"
-         x="0"
-         xml:space="preserve">S</text>
-      <text
-         id="text3145"
-         style="font-size:13.79950905px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#241c1c;font-family:Calibri"
-         y="13.057754"
-         x="6.2997761"
-         xml:space="preserve">implicity</text>
-      <text
-         id="text3147"
-         style="font-size:13.79950905px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#241c1c;font-family:Calibri"
-         y="13.057754"
-         x="53.998081"
-         xml:space="preserve">, Efficiency, </text>
-      <text
-         id="text3149"
-         style="font-size:13.79950905px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#241c1c;font-family:Calibri"
-         y="13.057754"
-         x="120.29572"
-         xml:space="preserve">Performance</text>
-      <text
-         id="text3151"
-         style="font-size:13.79950905px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#241c1c;font-family:Calibri"
-         y="13.057754"
-         x="192.74315"
-         xml:space="preserve" />
+         style="font-style:normal;font-weight:normal;font-size:22.9393px;line-height:0%;font-family:Calibri;text-align:start;text-anchor:start;fill:#241c1c;stroke-width:1.66233"
+         y="453.34787"
+         x="185.9534"
+         xml:space="preserve"
+         transform="scale(1.0771174,0.9284039)">S</text>
+      <g
+         id="g20157">
+        <text
+           id="text3145"
+           style="font-style:normal;font-weight:normal;font-size:22.9393px;line-height:0%;font-family:Calibri;text-align:start;text-anchor:start;fill:#241c1c;stroke-width:1.66233"
+           y="453.29053"
+           x="196.4257"
+           xml:space="preserve"
+           transform="scale(1.0771174,0.9284039)">implicity</text>
+        <text
+           id="text3147"
+           style="font-style:normal;font-weight:normal;font-size:22.9393px;line-height:0%;font-family:Calibri;text-align:start;text-anchor:start;fill:#241c1c;stroke-width:1.66233"
+           y="453.34787"
+           x="285.00006"
+           xml:space="preserve"
+           transform="scale(1.0771174,0.9284039)">, Efficiency, </text>
+        <text
+           id="text3149"
+           style="font-style:normal;font-weight:normal;font-size:22.9393px;line-height:0%;font-family:Calibri;text-align:start;text-anchor:start;fill:#241c1c;stroke-width:1.66233"
+           y="455.9859"
+           x="408.2063"
+           xml:space="preserve"
+           transform="scale(1.0771174,0.9284039)">Performance</text>
+      </g>
     </g>
+    <text
+       id="text3151"
+       style="font-style:normal;font-weight:normal;font-size:22.9393px;font-family:Calibri;text-align:start;text-anchor:start;fill:#241c1c;stroke-width:1.66233"
+       y="453.34787"
+       x="524.92426"
+       xml:space="preserve"
+       transform="scale(1.0771174,0.92840389)"
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145" />
     <path
        sodipodi:type="arc"
        style="fill:url(#linearGradient3213);fill-opacity:1;stroke:none"
@@ -611,9 +628,9 @@
        sodipodi:ry="77.14286"
        d="m -1182.8572,-76.209244 a 221.42857,77.14286 0 1 1 -442.8571,0 221.42857,77.14286 0 1 1 442.8571,0 z"
        transform="matrix(0.92247317,0,0,0.03249317,1686.8989,433.4392)"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415" />
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145" />
     <path
        sodipodi:type="arc"
        style="fill:#d40f00;fill-opacity:1;stroke:#000000;stroke-width:4.11569023;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3983-2)"
@@ -624,23 +641,23 @@
        sodipodi:ry="38.57143"
        d="m 262.85714,362.36218 a 74.285713,38.57143 0 1 1 -148.57143,0 74.285713,38.57143 0 1 1 148.57143,0 z"
        transform="matrix(0.03855634,0,0,0.07530803,599.80276,403.06458)"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415" />
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.55286026px;line-height:125%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Verdana;-inkscape-font-specification:Verdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="593.35101"
        y="350.73608"
        id="text5160"
-       sodipodi:linespacing="125%"
        transform="scale(0.99976554,1.0002345)"
-       inkscape:export-filename="C:\My Projects\5_Pics\Svg\logo_email.png"
-       inkscape:export-xdpi="67.675415"
-       inkscape:export-ydpi="67.675415"><tspan
+       inkscape:export-filename="/home/dbsl/NODE/wiki/static/img/logo1280x640.png"
+       inkscape:export-xdpi="209.84145"
+       inkscape:export-ydpi="209.84145"><tspan
          sodipodi:role="line"
          id="tspan5162"
          x="593.35101"
-         y="350.73608">TM</tspan></text>
+         y="350.73608"
+         style="font-size:23.5529px;line-height:1.25">TM</tspan></text>
   </g>
 </svg>
