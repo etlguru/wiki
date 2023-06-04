@@ -20,7 +20,7 @@
         </button>
         <div class="collapse {{ if $collapsed }}show{{ end }}" id="sidebar-collapse-{{ $index }}-{{ $level }}">
             <ul class="btn-toggle-nav list-unstyled fw-normal {{ if eq $level 0}} pb-1 {{ end }}ps-3">
-                {{- range $item := $group.pages -}}
+                {{- range $index, $item := $group.pages -}}
                     {{- if $item.pages -}}
                         {{ partial "partials/sidebar/group.html" (dict 
                             "page" $page
@@ -86,7 +86,8 @@
 
         <ul class="list-unstyled ps-0">
         {{- range $index, $item := $data -}}
-            {{- if $item.pages }}
+
+           {{- if $item.pages }}
                 {{- $sectionBreak = true }}
                 {{ partial "partials/sidebar/group.html" (dict 
                     "page" $page

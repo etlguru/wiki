@@ -28,7 +28,8 @@ Specifies which variables will be set once action execution is completed
 
 ## Supported decompression formats
 
-- Zip archive (_.zip;_.jar;_.ear;_.war;_.cbz;_.apk;_.wsz;_.wal;_.xpi;_.crx;_.dfsz;_.pcv;_.bsz;_.mskin;_.wmz;_.ipa;_.docx;_.xlsx;_.pptx;_.sxw;_.sxi;_.sxt;_.sxd;_.sxc;_.sxm;_.sxg;_.stw;_.sti;_.std;_.stc;_.odh;_.odd;_.odt;_.odm;_.ods;_.ots;_.odg;_.otg;_.odp;_.otp;_.odf;_.odb)
+- Zip archive (_.zip;_.jar;_.ear;_.war;_.cbz;_.apk;_.wsz;_.wal;_.xpi;_.crx;_.dfsz;_.pcv;_.bsz;_.mskin;_.wmz;_.ipa;_.docx;_.xlsx;_.pptx;_.sxw;_.sxi;  
+  _.sxt;_.sxd;_.sxc;_.sxm;_.sxg;_.stw;_.sti;_.std;_.stc;_.odh;_.odd;_.odt;_.odm;_.ods;_.ots;_.odg;_.otg;_.odp;_.otp;_.odf;_.odb)
 - BZip2 archive (_.bz2;_.bzip2;_.tbz2;_.tbz)
 - Rar archive (_.rar;_.r00;\*.cbr)
 - Arj archive (\*.arj)
@@ -82,7 +83,10 @@ Specifies which variables will be set once action execution is completed
 
 ## Supported compression formats
 
-- Zip archive (_.zip;_.jar;_.ear;_.war;_.cbz;_.apk;_.wsz;_.wal;_.xpi;_.crx;_.dfsz;_.pcv;_.bsz;_.mskin;_.wmz;_.ipa;_.docx;_.xlsx;_.pptx;_.sxw;_.sxi;_.sxt;_.sxd;_.sxc;_.sxm;_.sxg;_.stw;_.sti;_.std;_.stc;_.odh;_.odd;_.odt;_.odm;_.ods;_.ots;_.odg;_.otg;_.odp;_.otp;_.odf;_.odb)|_.zip;_.jar;_.ear;_.war;_.cbz;_.apk;_.wsz;_.wal;_.xpi;_.crx;_.dfsz;_.pcv;_.bsz;_.mskin;_.wmz;_.ipa;_.docx;_.xlsx;_.pptx;_.sxw;_.sxi;_.sxt;_.sxd;_.sxc;_.sxm;_.sxg;_.stw;_.sti;_.std;_.stc;_.odh;_.odd;_.odt;_.odm;_.ods;_.ots;_.odg;_.otg;_.odp;_.otp;_.odf;_.odb|
+- Zip archive (_.zip;_.jar;_.ear;_.war;_.cbz;_.apk;_.wsz;_.wal;_.xpi;_.crx;_.dfsz;_.pcv;_.bsz;_.mskin;_.wmz;_.ipa;_.docx;_.xlsx;_.pptx;_.sxw;_.sxi;_.sxt;_.sxd;  
+  _.sxc;_.sxm;_.sxg;_.stw;_.sti;_.std;_.stc;_.odh;_.odd;_.odt;_.odm;_.ods;_.ots;_.odg;_.otg;_.odp;_.otp;_.odf;_.odb)|_.zip;_.jar;_.ear;_.war;_.cbz;_.apk;_.wsz;_.wal;  
+  _.xpi;_.crx;_.dfsz;_.pcv;_.bsz;_.mskin;_.wmz;_.ipa;_.docx;_.xlsx;_.pptx;_.sxw;_.sxi;_.sxt;_.sxd;_.sxc;_.sxm;_.sxg;_.stw;_.sti;_.std;_.stc;_.odh;_.odd;_.odt;_.odm;  
+  _.ods;_.ots;_.odg;_.otg;_.odp;_.otp;_.odf;_.odb|
 - BZip2 archive (_.bz2;_.bzip2;_.tbz2;_.tbz)
 - 7z archive (\*.7z)
 - Tar archive (\*.tar)
