@@ -64,6 +64,7 @@ It is also possible to start action execution immediately after Agent starts.
 - [Execution Agent]({{<relref "docs/advanced-etl-processor/automation/execution-log">}})
 - [Execution Log]({{<ref "/execution-log" >}})
 - [Understanding Scheduler]({{<relref "/knowledgebase/tips/understanding-scheduler" >}})
+- [High Memory Usage]({{<relref "/knowledgebase/issues/high-memory-usage" >}})
 
 ## Video Tutorial
 

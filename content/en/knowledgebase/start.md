@@ -3,8 +3,9 @@ author: Maria Salter
 title: Knowledge Base Articles
 draft: false
 tags: ['Knowledgebase']
-date: 2023-01-24
+date: 2023-06-20
 layout: minimal
+includeToc: false
 ---
 
 ## [Addressing Common Problems]({{<relref "/knowledgebase/issues" >}})

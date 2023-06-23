@@ -10,27 +10,19 @@ menu: advanced-etl-processor-enterprise
 layout: docs
 ---
 
-[Advanced ETL Processor](https://www.etl-tools.com/advanced-etl-processor/overview.html) Data Validator guarantees to your application database that every data value is correct and accurate. It checks the data against a set of user-defined rules and constraints and identifies any errors or inconsistencies that may be present. This helps organizations avoid problems such as incorrect data being loaded into their systems, or data being lost or corrupted during the ETL process
+[Advanced ETL Processor](https://etl-tools.com/advanced-etl-processor/overview.html) Data Validator guarantees to your business that every data value is correct and accurate. It checks the data against a set of user-defined rules and constraints and identifies any errors or inconsistencies that may be present. This helps organizations avoid problems such as incorrect data being loaded into their systems, or data being lost or corrupted during the [ETL process](https://etl-tools.com/advanced-etl-processor/overview.html)
 
-## Validation Types
+## What is Data Validation
 
-There are several types of data validation.
+Data validation is the process of ensuring that data meets certain criteria or rules. It helps identify inaccuracies, inconsistencies, or anomalies within datasets. Here are some common ways to validate data:
 
-- Data type validation
-- Range checking
-- Code checking
-- Complex validation
-- Pattern checking
+1. **Data Type Validation**: Verifies that data is in the expected format and adheres to predefined data types. For example, ensuring that a field intended for numerical data only contains numbers.
+2. **Range and Boundary Validation**: Checks if data falls within predetermined ranges or boundaries. It helps detect outliers or invalid values. For instance, validating that a temperature reading is within a specific range.
+3. **Format and Pattern Validation**: Ensures that data conforms to a specified format or pattern. This is particularly useful when dealing with data such as email addresses, phone numbers, or postal codes.
+4. **Consistency Validation**: Compares data across multiple sources or fields to identify discrepancies or conflicts. It helps maintain data integrity by ensuring consistency within datasets.
+5. **Referential Integrity Validation**: Verifies that relationships between different data elements are maintained. For example, confirming that foreign key values in a database table exist in the referenced primary key column.
 
-One of the simplest forms of data validation is verifying the data type. Data type validation answers such simple questions as "Is the string alphabetic?" and "Is the number valid?"
-
-As an extension of simple type validation, range checking ensures that the provided value is within allowable minimums and maximums. For example, a character data type service code may only allow the alphabetic letters A through Z. All other characters would not be valid.
-
-Code checking is a bit more complicated, typically requiring a lookup table. For example, maybe your application calculates sales tax for only certain state codes. You would need to create a lookup object to hold the authorized, taxable state codes.
-
-Pattern checking when you checking the structure of the data field for example social security number format or car registration number. Regular expressions used quite often for pattern checks.
-
-It does not matter which business you are in sooner or later you will discover that there is something wrong with the data and it has to be validated. Here when [Advanced ETL Processor](https://www.etl-tools.com/advanced-etl-processor/overview.html) Validation can help.
+It does not matter which business you are in sooner or later you will discover that there is something wrong with the data and it has to be validated. Here when [Advanced ETL Processor](https://etl-tools.com/advanced-etl-processor/overview.html) validator can help.
 
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/transforming-data/validator.png" title="Validator Processed Records" >}}
 

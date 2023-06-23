@@ -4,7 +4,7 @@ title: XML Transformation Action
 description: XML Transformation Package Action
 draft: false
 tags: ['Package', 'Action', 'XSLT', 'XML', 'Transformation']
-date: 2023-03-18
+date: 2023-06-18
 group: advanced-etl-processor-enterprise-package-actions
 menu: advanced-etl-processor-enterprise
 layout: docs

@@ -4,7 +4,7 @@ title: Requirements
 description: Requirements for Advanced ETL Processor
 draft: false
 tags: ['Requirements']
-date: 2022-12-22
+date: 2023-06-20
 group: advanced-etl-processor-enterprise
 menu: advanced-etl-processor-enterprise
 weight: 2000
@@ -83,18 +83,27 @@ Depending on the Requirements you may or may not need to have all components ins
 There is no need to install clients for MySql and PostgreSQL they are integrated into the software itself
 {{< /alert >}}
 
-## Hardware recommendationss
+## Hardware recommendations
 
 The installation may use up to 120 meg of disk space.
 We recommend using 8 gigabytes of memory.
 Our software streams data, therefore, having loads of memory is not going to improve performance.
 (eg: it does not load all the data into memory at once).
-Repository database takes approximately 200 megs.
 
 We do have customers running our ETL software on low-end servers in the cloud.
 
 Most of the time two i7 processors and 16 gigs of memory is more than enough.
 We prefer not to force someone to buy expensive hardware which is not going to be used.
 It is better to start small and upgrade later.
+
+## Repository database
+
+The repository database stores all the information about connections, transformations, packages, SQL scripts, reports and execution logging. This is where the results of ETL designer hard work is stored and obviously, no one wants to lose it.
+
+Repository database takes approximately 200 megs.
+
+{{< alert color="warning" >}}
+Our ETL Software support various repository types. We always recommend using MS SQL Server express. It is free and the easiest option.  
+{{< /alert >}}
 
 {{< aetl >}}
