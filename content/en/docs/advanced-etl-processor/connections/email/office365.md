@@ -31,8 +31,22 @@ Office 365 Connection is used to send and receive emails using Microsoft Graph A
 
 {{< alert color="secondary">}}Ask your system administrator for connection details{{< /alert >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/office365-connection-comments.png" title="Office 365 Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/office365-connection-user-fields.png" title="Office 365 User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## Access rights example
 
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/email/msgraph.png" title="Access rights example" >}}
 
 **[How to register your app for Office 365 with OAuth 2.0 authentication](https://blog.rebex.net/registering-app-for-oauth2-office365#:~:text=How%20to%20register%20your%20app%20for%20Office365%20with,in%20the%20left%20menu%2C%20click%20%22App%20registrations%22.%20)**
+
+{{< aetl >}}

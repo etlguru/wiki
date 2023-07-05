@@ -25,3 +25,17 @@ SMTP stands for Simple Mail Transfer Protocol, a protocol for sending e-mail mes
 - Select TCP/IP port (default is 25)
 - Type in user name and password
 - Click OK to close the SMTP connection properties window
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/smtp-connection-comments.png" title="SMTP Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/smtp-connection-user-fields.png" title="SMTP User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
+{{< aetl >}}

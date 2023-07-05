@@ -6,7 +6,7 @@ draft: false
 tags: ['Connection', 'Database', 'MySQL', 'MariaDB']
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
-date: 2023-01-05
+date: 2023-07-05
 layout: docs
 ---
 
@@ -50,3 +50,5 @@ There are three ways of connecting to My SQL: Direct, Via SSL and Via SSH
 {{< youtube id="OfocHpdHyLk" class="ratio ratio-16x9" >}}
 \
 {{< youtube id="3dNFyvG23gM" class="ratio ratio-16x9" >}}
+
+{{< aetl >}}

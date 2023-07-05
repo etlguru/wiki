@@ -4,7 +4,7 @@ title: FTP/SFTP Connection
 description: FTP/SFTP Connection
 draft: false
 tags: ['Connection', 'Cloud', 'FTP', 'SFTP']
-date: 2022-09-17
+date: 2023-07-04
 group: 'advanced-etl-processor-enterprise-cloud-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -19,7 +19,7 @@ FTP is most commonly used to download a file from a server using the Internet or
 ## FTP/SFTP Connection Dialogue
 
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/ftp-connection.png" title="FTP/SFTP Connection Dialogue" >}}
-
+\
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/ftp-connection1.png" title="FTP/SFTP Connection Dialogue" >}}
 
 To create an FTP connection, follow these steps:
@@ -75,12 +75,24 @@ This protocol assumes that it is run over a secure channel, such as SSH, that th
 
 Source: Wikipedia
 
-{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/stp-connection.png" title="SFTP Connection" >}}
+{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/sftp-connection.png" title="SFTP Connection" >}}
 \
-{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/stp-connection1.png" title="SFTP Connection" >}}
+{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/sftp-connection1.png" title="SFTP Connection" >}}
 \
 {{< alert color="secondary" >}}
 Imported Keys are stored in the same directory where software is located
+{{< /alert >}}
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/ftp-connection-comments.png" title="FTP Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/ftp-connection-user-fields.png" title="FTP User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
 {{< /alert >}}
 
 {{< aetl >}}

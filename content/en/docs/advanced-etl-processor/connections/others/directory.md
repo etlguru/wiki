@@ -39,6 +39,20 @@ C:\Program Files\DB Software Laboratory\Demo\Buffer\tmp
 
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/path-builder.png" title="Path builder" >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/directory-comments.png" title="Directory Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/directory-user-fields.png" title="Directory User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## Video Tutorial
 
 {{< youtube id="gf8CdeseFj0" class="ratio ratio-16x9" >}}
+
+{{< aetl >}}

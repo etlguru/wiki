@@ -9,7 +9,7 @@ tags: ['Connection', 'Cloud', 'Storage', 'DropBox', 'Google Drive', 'OneDrive', 
 , 'Amazon Cloud Drive'
 , 'Yandex Disk'
 ]
-date: 2022-09-17
+date: 2023-07-04
 group: 'advanced-etl-processor-enterprise-cloud-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -24,6 +24,18 @@ Our software supports the following cloud storage providers: DropBox, Google Dri
 ## Connection
 
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/cloud-storage-connection.png" title="Cloud Storage Connection" >}}
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/cloud-storage-connection-comments.png" title="Cloud Storage Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/cloud-storage-connection-user-fields.png" title="Cloud Storage User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
 
 ## Setting up Cloud Connections
 

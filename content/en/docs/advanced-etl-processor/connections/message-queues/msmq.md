@@ -4,7 +4,7 @@ title: Microsoft Message Queue Connection
 description: Microsoft Message Queue Connection
 draft: false
 tags: ['Connection', 'Microsoft Message Queue', 'MSMQ']
-date: 2022-09-17
+date: 2023-07-04
 group: advanced-etl-processor-enterprise-message-queues
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -23,3 +23,17 @@ Source: https://msdn.microsoft.com/en-us/library/ms711472%28v=vs.85%29.aspx
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/microsoft-message-queuing-connection1.png" title="Microsoft Message Queue Connection" >}}
 \
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/microsoft-message-queuing-connection2.png" title="Microsoft Message Queue Connection" >}}
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/microsoft-message-queuing-comments.png" title="Microsoft Message Queue Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/microsoft-message-queuing-user-fields.png" title="Microsoft Message Queue User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
+{{< aetl >}}

@@ -4,7 +4,7 @@ title: Apache Kafka Connection
 description: Apache Kafka Connection
 draft: false
 tags: ['Connection', 'Apache Kafka']
-date: 2022-03-23
+date: 2023-07-04
 group: advanced-etl-processor-enterprise-message-queues
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -19,3 +19,17 @@ Source: Wikipedia
 ## Connection
 
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/apache-kafka-connection-properties.png" title="Apache Kafka Connection" >}}
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/apache-kafka-connection-comments.png" title="Apache Kafka Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/apache-kafka-connection-user-fields.png" title="Apache Kafka User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
+{{< aetl >}}

@@ -4,7 +4,7 @@ title: ODBC Connections
 description: ODBC Database Connection
 draft: false
 tags: ['Connection', 'Database', 'ODBC']
-date: 2023-03-22
+date: 2023-07-05
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -66,3 +66,5 @@ The simplest way to create an ODBC connection string is to use the ODBC Connecti
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/odbc-connections-builder.png" title="ODBC Connection Builder" >}}
 \
 [List of ODBC Drivers Download Links]({{<relref "/knowledgebase/tips/list-of-odbc-drivers-download-links" >}})
+
+{{< aetl >}}

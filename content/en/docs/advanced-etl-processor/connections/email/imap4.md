@@ -26,3 +26,17 @@ Internet message access protocol (IMAP) is one of the two most prevalent Interne
 - Type in user name and password
 - Select folder
 - Click OK to close the IMAP4 connection properties window
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/imap4-connection-comments.png" title="IMAP4 Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/imap4-connection-user-fields.png" title="IMAP4 User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
+{{< aetl >}}

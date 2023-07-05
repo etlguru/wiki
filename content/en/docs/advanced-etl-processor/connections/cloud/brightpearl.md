@@ -4,7 +4,7 @@ title: BrightPearl Connection
 description: BrightPearl Connection
 draft: false
 tags: ['Connection', 'Cloud', 'BrightPearl']
-date: 2022-09-17
+date: 2023-07-04
 group: 'advanced-etl-processor-enterprise-cloud-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -16,7 +16,7 @@ Brightpearl is a fully integrated, web-based business management software system
 
 ## Connection
 
-{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/brightpearl-conenction.png" title="BrightPearl Connection" >}}
+{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/brightpearl-connection.png" title="BrightPearl Connection" >}}
 
 ## Creating New Connection
 
@@ -30,5 +30,17 @@ Brightpearl is a fully integrated, web-based business management software system
 
 More information about datacentres:
 https://www.brightpearl.com/developer/latest/concept/uri-syntax.html
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/brightpearl-connection-comments.png" title="Brightpearl Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/brightpearl-connection-user-fields.png" title="Brightpearl User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
 
 {{< aetl >}}

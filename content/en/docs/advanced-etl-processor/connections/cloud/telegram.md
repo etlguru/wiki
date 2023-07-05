@@ -4,8 +4,7 @@ title: Telegram Connection
 description: Telegram Connection
 draft: false
 tags: ['Connection', 'Cloud', 'Telegram']
-date: 2022-11-14
-
+date: 2023-07-04
 group: 'advanced-etl-processor-enterprise-cloud-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -26,7 +25,19 @@ Source [https://en.wikipedia.org/wiki/Telegram\_(software)](Wikipedia)
 Our ETL software uses BOT API to process and send a Telegram message.
 
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/telegram-connection.png" title="Telegram Connection" >}}
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/telegram-connection-comments.png" title="Telegram Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/telegram-connection-user-fields.png" title="Telegram User Fields" >}}
 \
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 Use Botfather to create a new Telegram bot as described here
 https://core.telegram.org/bots#6-botfather
 

@@ -4,7 +4,7 @@ title: Microsoft SQL Server CE Connection
 description: Microsoft SQL Server CE Database Connection
 draft: false
 tags: ['Connection', 'Database', 'SQL Server Compact Edition']
-date: 2022-09-17
+date: 2023-07-05
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -17,6 +17,18 @@ SQL Server Compact Edition contains the run-time bits that can be used to develo
 ## Connection
 
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/sql-server-ce.png" title="Microsoft SQL Server CE Connection" >}}
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/sql-server-ce-connection-comments.png" title="Microsoft SQL Server CE Connection Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/sql-server-ce-connection-user-fields.png" title="Microsoft SQL Server CE Connection User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
 
 ## Creating New Connection
 

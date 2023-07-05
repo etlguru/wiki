@@ -4,7 +4,7 @@ title: PostgreSQL Connection
 description: PostgreSQL Database Connection
 draft: false
 tags: ['Connection', 'Database', 'PostgreSQL']
-date: 2023-01-05
+date: 2023-07-05
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -40,3 +40,5 @@ There are three ways of connecting to PostgreSQL: Direct, Via SSL and Via SSH
 - Click OK to close the connection properties window
 
 [Working with Greenplum]({{<relref "/knowledgebase/connections/working-with-greenplum" >}})
+
+{{< aetl >}}

@@ -6,7 +6,7 @@ draft: false
 tags: ['Connection', 'Database', 'MongoDB']
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
-date: 2023-01-05
+date: 2023-07-05
 layout: docs
 ---
 
@@ -43,3 +43,5 @@ There are three ways of connecting to MongoDB: Direct, Via SSL and Via SSH
 {{< alert color="secondary" >}}
 There are three ways of connecting to MongoDB: Direct, Via SSL and Via SSH
 {{< /alert >}}
+
+{{< aetl >}}

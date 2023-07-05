@@ -4,7 +4,7 @@ title: Connections
 description: Active Table Editor Connections
 draft: false
 tags: ['Active Table Editor', 'Data Entry', 'Connections']
-date: 2022-09-17
+date: 2023-07-04
 menu: active-table-editor
 group: active-table-editor
 layout: docs

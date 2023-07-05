@@ -4,13 +4,31 @@ title: Tableau Connection
 description: Tableau Connection
 draft: false
 tags: ['Connection', 'Cloud', 'Tableau']
-date: 2022-09-17
+date: 2023-07-04
 group: 'advanced-etl-processor-enterprise-cloud-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
 ---
 
+## About Tableau
+
+Tableau is a powerful and popular data visualization software that enables individuals and organizations to analyze, visualize, and share data in a user-friendly and interactive manner. It provides a range of tools and features that help users explore data, create insightful visualizations, and generate meaningful reports and dashboards.
+
+## Connection
+
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/cloud/tableau-connection.png" title="Tableau Connection" >}}
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/tableau-connection-comments.png" title="Tableau Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/tableau-connection-user-fields.png" title="Tableau User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
 
 **contentUrl**
 

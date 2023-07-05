@@ -4,7 +4,7 @@ title: Oracle Connection
 description: Oracle Database Connection
 draft: false
 tags: ['Connection', 'Database', 'Oracle']
-date: 2022-11-22
+date: 2023-07-05
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -27,3 +27,5 @@ For an Oracle connection, you will need to specify the TNS name required and pro
 - Click OK to close the connection properties window
 
 {{< alert color="secondary">}}If you are unsure of these parameters, please contact your Database Administrator for the correct settings.{{< /alert >}}
+
+{{< aetl >}}

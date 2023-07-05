@@ -6,7 +6,7 @@ draft: false
 tags: ['Connection', 'Database', 'Interbase', 'Firebird']
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
-date: 2022-09-17
+date: 2023-07-05
 layout: docs
 ---
 
@@ -22,6 +22,18 @@ Firebird is a relational database offering many ANSI SQL standard features that 
 
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/interbase-connection.png" title="Interbase/Firebird Connection" >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/interbase-connection-comments.png" title="Microsoft SQL Server CE Connection Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/interbase-connection-user-fields.png" title="Microsoft SQL Server CE Connection User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## Creating Interbase/Firebird connection
 
 - In the Name Text Box type in a new name for the connection you are about to create
@@ -29,3 +41,5 @@ Firebird is a relational database offering many ANSI SQL standard features that 
 - Fill in Username/Password for the database you wish to connect to
 - Click Test Connection to ensure the details you have provided are correct
 - Click OK to close the connection properties window
+
+{{< aetl >}}

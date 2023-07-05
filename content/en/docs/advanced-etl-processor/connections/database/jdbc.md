@@ -6,7 +6,7 @@ draft: false
 tags: ['Connection', 'Database', 'JDBC']
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
-date: 2022-09-17
+date: 2023-07-05
 layout: docs
 ---
 
@@ -20,7 +20,21 @@ Source: Wikipedia.
 
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/jdbc.png" title="JDBC Connection" >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/jdbc-connection-comments.png" title="JDBC Connection Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/jdbc-connection-user-fields.png" title="JDBC Connection User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## Notes
 
 - SQL builder does not work with JDBC connections.
 - List of JDBC drivers can be found here https://developers.sun.com/product/jdbc/drivers
+
+{{< aetl >}}

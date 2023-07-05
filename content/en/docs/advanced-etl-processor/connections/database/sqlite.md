@@ -4,7 +4,7 @@ title: SQLite Connection
 description: SQLite Database Connection
 draft: false
 tags: ['Connection', 'Database', 'SQLite']
-date: 2022-09-17
+date: 2023-07-05
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -23,3 +23,17 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 - In the Name Text Box type in a new name for the SQLite connection you are about to create
 - Select Database name
 - Click OK to close the connection properties window
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/sqlite-connection-comments.png" title="SQLite Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/sqlite-connection-user-fields.png" title="SQLite User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
+{{< aetl >}}

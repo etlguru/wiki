@@ -4,7 +4,7 @@ title: Microsoft SQL Server Connection
 description: Microsoft SQL Server Database Connection
 draft: false
 tags: ['Connection', 'Database', 'SQL Server']
-date: 2022-08-01
+date: 2023-07-05
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -32,6 +32,18 @@ To connect using different port use "server name,port" format
 If you are unsure of these parameters, please contact your Database Administrator for the correct settings.
 {{< /alert >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/ms-sql-server-connection-comments.png" title="Microsoft SQL Server Connection Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/ms-sql-server-connection-user-fields.png" title="Microsoft SQL Server Connection User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## ODBC Drivers
 
 Our software automatically selects the highest installed driver in the following order
@@ -47,3 +59,5 @@ Our software automatically selects the highest installed driver in the following
 ## Video Tutorial
 
 {{< youtube id="EN1CtjAHGCA" class="ratio ratio-16x9" >}}
+
+{{< aetl >}}

@@ -27,3 +27,17 @@ POP3 is designed to delete mail on the server as soon as the user has downloaded
 - Select TCP/IP port (default is 110)
 - Type in user name and password
 - Click OK to close the POP3 connection properties window
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/pop3-connection-comments.png" title="POP3 Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/pop3-connection-user-fields.png" title="POP3 User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
+{{< aetl >}}

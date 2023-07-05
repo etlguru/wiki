@@ -4,13 +4,13 @@ title: SalesForce Connection
 description: SalesForce Connection
 draft: false
 tags: ['Connection', 'Cloud', 'SalesForce']
-date: 2022-09-17
+date: 2023-07-04
 group: 'advanced-etl-processor-enterprise-cloud-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
 ---
 
-{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/sales-force-connection-properties.png" title="SalesForce Connection" >}}
+{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/cloud/sales-force-connection-properties.png" title="SalesForce Connection" >}}
 
 ## Creating SalesForce connection
 
@@ -22,6 +22,18 @@ layout: docs
 - Type in Password
 - Test the connection
 - Click OK to close the SalesForce connection properties window
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/sales-force-connection-comments.png" title="SalesForce Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/cloud/sales-force-connection-user-fields.png" title="SalesForce User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
 
 ## Getting Consumer Key and Consumer Secret
 

@@ -6,7 +6,7 @@ draft: false
 tags: ['Connection', 'Database', 'BDE']
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
-date: 2022-09-17
+date: 2023-07-05
 layout: docs
 ---
 
@@ -57,3 +57,5 @@ BDE Connection only works with 32 bit software
 ## BDE Download
 
 https://www.etl-tools.com/dmdocuments/BDE.zip
+
+{{< aetl >}}

@@ -4,7 +4,7 @@ title: OleDB Connection
 description: OleDB Database Connection
 draft: false
 tags: ['Connection', 'Database', 'OleDB']
-date: 2022-09-17
+date: 2023-07-05
 group: 'advanced-etl-processor-enterprise-database-connections'
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -34,3 +34,5 @@ It is not recommended for very large datasets.
 {{< alert color="secondary">}}Tip: Use variable to connect to the repository{{< /alert >}}
 
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/repository-connection.png" title="Use variable to connect to the repository" >}}
+
+{{< aetl >}}
