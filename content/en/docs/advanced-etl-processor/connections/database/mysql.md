@@ -34,6 +34,18 @@ There are three ways of connecting to My SQL: Direct, Via SSL and Via SSH
 \
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/mysql3.png" title="Creating MySQL/MariaDB Connection" >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/mysql-connection-comments.png" title="MySQL/MariaDB Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/mysql-connection-user-fields.png" title="MySQL/MariaDB User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## Creating New Connection
 
 - In the Name Text Box type in a new name for the connection you are about to create

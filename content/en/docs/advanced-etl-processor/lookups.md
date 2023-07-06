@@ -4,7 +4,7 @@ title: Lookups
 description: Lookups allow the users to edit data manually in any database
 draft: false
 tags: ['Lookups']
-date: 2022-09-17
+date: 2023-07-06
 group: advanced-etl-processor-enterprise
 menu: advanced-etl-processor-enterprise
 layout: docs

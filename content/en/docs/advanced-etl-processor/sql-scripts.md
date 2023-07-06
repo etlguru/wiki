@@ -4,7 +4,7 @@ title: SQL Scripts
 description: SQL Scripts
 draft: false
 tags: ['SQL']
-date: 2022-04-14
+date: 2023-07-06
 group: advanced-etl-processor-enterprise
 menu: advanced-etl-processor-enterprise
 layout: docs
@@ -20,6 +20,10 @@ layout: docs
 ## SQL Script
 
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/sql-script-run.png" title="SQL Script" >}}
+\
+{{< alert color="danger" >}}
+**Note:** Please always remove comments from SQL  
+{{< /alert >}}
 
 ## Tool Bar
 

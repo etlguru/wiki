@@ -4,7 +4,7 @@ title: User Interface
 description: Advanced ETL Processor User Interface
 draft: false
 tags: ['Transforming Data', 'Introduction']
-date: 2022-08-01
+date: 2023-07-06
 group: advanced-etl-processor-enterprise
 menu: advanced-etl-processor-enterprise
 weight: 6000
@@ -97,9 +97,15 @@ To create a new object group select the appropriate object type for example tran
 
 Depending on the object type, the appropriate dialogue will be presented. In this example, the Transformation Group has been selected. The dialogue, in this case, requests a description and comment about the object to be created. Some of the fields in a dialogue of this type will be mandatory and will, therefore, have to be entered. However, comments will be optional, and just provide the user with the ability to specify more detail about an object and what it does.
 
-{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/transformation-properties.png" title="Transformation Properties" >}}
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/transformation-properties.png" title="Transformation Group Properties" >}}
 \
-{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/transformation-properties-comments.png" title="Transformation Comments" >}}
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/transformation-properties-comments.png" title="Transformation Group Comments" >}}
+\
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/transformation-properties-user-fields.png" title="Transformation Group User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
 
 ## Status Bar
 

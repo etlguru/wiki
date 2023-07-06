@@ -28,6 +28,18 @@ There are three ways of connecting to PostgreSQL: Direct, Via SSL and Via SSH
 \
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/postgresql3.png" title="Creating PostgreSQL connection" >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/postgresql-connection-comments.png" title="PostgreSQL Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/postgresql-connection-user-fields.png" title="PostgreSQL User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## Creating New Connection
 
 - In the Name Text Box type in a new name for the connection you are about to create

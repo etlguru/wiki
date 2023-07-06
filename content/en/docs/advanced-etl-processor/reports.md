@@ -4,7 +4,7 @@ title: Report
 description: A report provides the end-user with the ability to view data as a neatly formatted presentation of data.
 draft: false
 tags: ['Report']
-date: 2023-01-12
+date: 2023-07-06
 group: advanced-etl-processor-enterprise
 menu: advanced-etl-processor-enterprise
 layout: docs

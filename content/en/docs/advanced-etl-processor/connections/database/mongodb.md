@@ -30,6 +30,18 @@ There are three ways of connecting to MongoDB: Direct, Via SSL and Via SSH
 \
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/mongodb-connection3.png" title="MongoDB Connection" >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/mongodb-connection-comments.png" title="MongoDB Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/mongodb-connection-user-fields.png" title="MongoDB User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## Creating New Connection
 
 - In the Name Text Box type in a new name for the connection you are about to create

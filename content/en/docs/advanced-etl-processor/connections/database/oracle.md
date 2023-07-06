@@ -18,6 +18,18 @@ For an Oracle connection, you will need to specify the TNS name required and pro
 \
 {{< alert color="secondary">}}It is also possible to use Oracle instant client syntax: servername:1521/ORCL{{< /alert >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/oracle-connection-comments.png" title="Oracle Connection Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/oracle-connection-user-fields.png" title="Oracle Connection User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## Creating New Connection
 
 - In the Name Text Box type in a new name for the connection you are about to create

@@ -18,12 +18,6 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/sqlite.png" title="SQLite Connection" >}}
 
-## Creating New Connection
-
-- In the Name Text Box type in a new name for the SQLite connection you are about to create
-- Select Database name
-- Click OK to close the connection properties window
-
 ## Comments
 
 {{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/sqlite-connection-comments.png" title="SQLite Comments" >}}
@@ -35,5 +29,11 @@ SQLite is a software library that implements a self-contained, serverless, zero-
 {{< alert color="secondary" >}}
 **Note:** User fields provide a convenient way of storing additional data
 {{< /alert >}}
+
+## Creating New Connection
+
+- In the Name Text Box type in a new name for the SQLite connection you are about to create
+- Select Database name
+- Click OK to close the connection properties window
 
 {{< aetl >}}

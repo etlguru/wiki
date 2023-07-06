@@ -32,7 +32,19 @@ Thanks to the long period of existence and the fruitful efforts of its team of d
 
 ## Connection
 
-{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/odbc.png" title="ODBC" >}}
+{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/odbc.png" title="ODBC Connection" >}}
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/odbc-connection-comments.png" title="ODBC Connection Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/odbc-connection-user-fields.png" title="ODBC Connection User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
 
 ## Creating New Connection
 

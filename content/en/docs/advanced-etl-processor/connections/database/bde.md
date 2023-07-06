@@ -45,6 +45,18 @@ BDE is no longer supported by Embacadero.{{< /alert >}}
 
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/bde-connection.png" title="Creating a BDE connection" >}}
 
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/bde-connection-comments.png" title="BDE Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/bde-connection-user-fields.png" title="BDE User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
+
 ## Creating a BDE connection
 
 - In the Name Text Box type in a new name for the BDE connection you are about to create

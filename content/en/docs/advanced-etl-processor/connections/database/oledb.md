@@ -16,11 +16,23 @@ OLE DB (Object Linking and Embedding, Database, sometimes written as OLEDB or OL
 
 ## Connection
 
-{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/oledb.png" title="Creating Ole DB connection" >}}
+{{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/oledb.png" title="Ole DB connection" >}}
 \
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/oledb-connection.png" title="Creating Ole DB connection" >}}
 \
 {{< image class="mx-auto d-block" src="/images/etl/advanced-etl-processor/connections/oledb-connection1.png" title="Creating Ole DB connection" >}}
+
+## Comments
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/oledb-connection-comments.png" title="Ole DB Comments" >}}
+
+## User fields
+
+{{< image class="mx-auto d-block"  src="/images/etl/advanced-etl-processor/connections/oledb-connection-user-fields.png" title="Ole DB User Fields" >}}
+\
+{{< alert color="secondary" >}}
+**Note:** User fields provide a convenient way of storing additional data
+{{< /alert >}}
 
 ## Creating New Ole DB connection
 
